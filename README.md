@@ -1,2 +1,2 @@
 # nov24_cds
-Hello world
+print("Hello world")
